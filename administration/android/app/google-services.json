@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1074410476128",
+    "project_id": "alect-ron",
+    "storage_bucket": "alect-ron.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074410476128:android:4970606312ee1c26f42905",
+        "android_client_info": {
+          "package_name": "com.alectron.administration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074410476128-i382d7qtajsbik5qf8cgmvv6408o9c9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alectron.administration",
+            "certificate_hash": "0634409c9cc8697057e378df2fcc0141b53c85e4"
+          }
+        },
+        {
+          "client_id": "1074410476128-ea9dqplsh6i2g1uk7hramdrh3st9f5ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQildeytYOaYwvhcEmMxZakegN2Ipj878"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074410476128-ea9dqplsh6i2g1uk7hramdrh3st9f5ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
